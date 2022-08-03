@@ -1,13 +1,17 @@
 body{
+    margin-top: 5%;
     text-align: center;
-    background-color: darkseagreen;
+    background-color: #6992df;
 }
 h1{
-    color: blue;
+    color: #2121c2;
 }
 h2{
-    color: darkred;
+    color: rgb(38, 6, 179);
 }
 h4{
-    color: rgb(193, 0, 252);
+    color: #04054b;
+}
+span{
+    color: #6992df;
 }

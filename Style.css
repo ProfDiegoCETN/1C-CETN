@@ -1,17 +1,25 @@
 body{
-    margin-top: 5%;
+    margin-top: 0%;
     text-align: center;
-    background-color: #6992df;
-}
+    background-color: rgb(5, 5, 5);
+  }
 h1{
     color: #2121c2;
 }
 h2{
-    color: rgb(38, 6, 179);
+    color: #f50901;
 }
+h3{color: rgb(31, 15, 255);}
 h4{
-    color: #04054b;
+    color: #30f309;
 }
 span{
-    color: #6992df;
+    color: #0356f0;
+}
+p{color: aqua;}
+img{
+    width: 20%;
+}
+#ultimo-paragrafo {
+    border-style: dotted;
 }
